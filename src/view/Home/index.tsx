@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 
-import Cart from '../../assets/cart.png'
 
 import { Container } from './style';
 
@@ -14,9 +13,6 @@ interface IProduct {
   price: number;
 }
 
-interface Test {
-  cart: IProduct[]
-}
 
 const Home: React.FC = () => {
   const [data, setData] = useState<IProduct[]>([]);
