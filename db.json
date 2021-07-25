@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011",
+      "name": "Macbook",
+      "description": "Macbook 2020",
+      "price": 17000
+    },
+    {
+      "id": 2,
+      "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-hero-202011",
+      "name": "Mac mini",
+      "description": "Mac mini 2020",
+      "price": 6000
+    },
+    {
+      "id": 3,
+      "photo": "https://i.zst.com.br/thumbs/12/23/10/232781250.jpg",
+      "name": "Mac",
+      "description": "Mac",
+      "price": 19000
+    },
+    {
+      "id": 4,
+      "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020",
+      "name": "iPhone",
+      "description": "iPhone X",
+      "price": 4000
+    }
+  ]
+}
